@@ -1,0 +1,53 @@
+.step-wizard {
+  width: 100% !important;
+  background: #ffffff none;
+  height: 52px;
+  border-radius: 3px;
+  border-bottom: 1px solid #ccc;
+}
+.step-wizard .ui.grid.container {
+  width: 74%;
+}
+
+.step-wizard .steps-ui-wrapper .step-ui {
+  width: 50%;
+  text-align: center;
+  text-decoration: none;
+  float: left;
+  pointer-events: all;
+  cursor: pointer;
+  padding: 11px;
+}
+.step-wizard .steps-ui-wrapper .step-ui.active {
+  background: #0c3fd0;
+}
+.step-wizard .steps-ui-wrapper .step-ui.active ~ .step-ui {
+  pointer-events: none;
+  cursor: no-drop;
+}
+.step-wizard .steps-ui-wrapper .step-ui a {
+  color: #09488c;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  color: #09488c;
+}
+.step-wizard .steps-ui-wrapper .step-ui .step-number {
+  width: 30px;
+  margin-right: 10px;
+  border: 2px solid #5e5c5c;
+  height: 30px;
+  border-radius: 15px;
+  line-height: 24px;
+  float: left;
+
+  display: block;
+  overflow: visible;
+  background-position: center;
+  background-size: 30px 30px;
+  color: #09488c;
+  border: 2px solid #09488c;
+}
+.employee-form {
+  background: #fff;
+}

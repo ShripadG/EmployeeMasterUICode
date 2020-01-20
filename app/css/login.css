@@ -1,0 +1,30 @@
+.error {
+  color: red;
+}
+
+.checkbox-style-outer {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.checkbox-group-inline {
+  margin-top: 10px;
+}
+
+.checkbox-container {
+  display: inline-block;
+  margin-right: 10px;
+  width: 45%;
+}
+
+.thin-divide-line{
+  border: 1px;
+    border-style: solid;
+    margin: 20px 0px 10px 0px;
+    color: darkgray;
+    padding-left: 10px;
+}
+
+.checkbox-style{
+  margin: 0px 10px 0px 0px;
+}

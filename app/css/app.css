@@ -1,0 +1,533 @@
+.background-image {
+  height: 92vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #09488c;
+  margin-top: 1px;
+  /* overflow-y: scroll; */
+}
+
+.bootstp-table,
+.bootstp-tables {
+  padding: 15px;
+  overflow-y: scroll;
+  display: block;
+  height: 100%;
+}
+
+.header-color {
+  color: white;
+  margin-top: 10px;
+  padding-left: 40px;
+}
+.pie-area .chartjs-render-monitor{
+  cursor: pointer;
+}
+
+.dasboard-main .container {
+  background-color: #f5f6f8;
+  margin-left: 16.3% !important;
+}
+
+.dasboard-main .header-top-space {
+  /*padding-top: 10px;
+  padding-bottom: 40px;*/
+  background-color: #09488c;
+}
+
+.header-top-space {
+  /*padding-top: 10px;
+  padding-bottom: 40px;*/
+  background-color: #09488c;
+}
+
+.btn-primary {
+  color: #09488c;
+  background-color: white;
+  border-color: #09488c;
+  font-weight: bold;
+}
+
+.img1 {
+  float: right;
+  background: url('../images/nationwide_final.png');
+  background-repeat: no-repeat;
+  width: 160px;
+  height: 60px;
+  border-color: #09488c;
+  border-style: none;
+  padding-left: 160px;
+}
+
+.clearfix {
+  overflow: auto;
+  /*margin-bottom: 10px;*/
+}
+#custom-sidebar-content-id {
+  overflow-y: visible !important;
+  position: relative !important;
+}
+.img2 {
+  float: right;
+  margin-right: 15px;
+  background: url('../images/ibm_final.png');
+  background-repeat: no-repeat;
+  width: 130px;
+  height: 60px;
+  border-color: #09488c;
+  border-style: none;
+  padding-left: 130px;
+}
+
+.image-border {
+  width: 130px;
+  height: 60px;
+  border-color: #09488c;
+  border-style: none;
+}
+.modal-90w {
+  width: 90%;
+  max-width: none !important;
+}
+.dasboard-main {
+  background: #fff;
+  padding-bottom: 10px;
+}
+.employee-form .tab-content {
+  background: #fff;
+}
+
+.dasboard-main .nav {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.dasboard-main .nav .nav-item {
+  background: #fff;
+  margin-top: 2px;
+}
+.sub-dash-header {
+  background: #09488c;
+  margin-top: 2px;
+  margin-left: 0px;
+  color: #fff;
+  padding: 8px;
+  height: 34px;
+}
+.chart-area {
+  padding: 15px 10px;
+  height: 280px;
+  display: block;
+  border-top: 1px solid #e1e5eb;
+}
+.pie-area {
+  padding: 10px 10px;
+  height: auto;
+  display: block;
+  border-top: 1px solid #e1e5eb;
+}
+.list-table {
+  padding: 15px 10px;
+  height: 213px;
+  display: block;
+  border-top: 1px solid #e1e5eb;
+}
+.sub-stats-header {
+  margin-top: 15px;
+}
+.dasboard-main .nav .nav-item a {
+  color: #000;
+}
+.dasboard-main .nav-link {
+  padding: 10px !important;
+}
+.dasboard-main .nav-tabs .nav-link {
+  width: 50%;
+  text-align: center;
+}
+.dasboard-main .nav-tabs .nav-link.active,
+.dasboard-main .nav-tabs .nav-item.show .nav-link {
+  color: #007bff !important;
+  background-color: #ffffff !important;
+}
+.dasboard-main .nav-tabs .nav-link {
+  background-color: #007bff !important;
+  border-color: transparent !important;
+  border-bottom: 1px solid #ccc !important;
+}
+.dasboard-main .nav-tabs {
+  width: 40%;
+}
+input,
+select {
+  border-radius: 0 !important;
+  transition: none !important;
+}
+.actions-button {
+  background: #fff;
+  margin-top: 5px;
+  padding: 10px;
+  width: 100%;
+}
+.form-group label {
+  font-weight: bold;
+  width: 240px;
+  justify-content: left !important;
+}
+.form-group {
+  margin-bottom: 1rem;
+  /* width: 33%; */
+  margin-bottom: 5px !important;
+}
+.form-group > div {
+  float: right;
+  width: 200px;
+}
+.header + div {
+  position: initial !important;
+}
+.form-inline .form-control {
+  width: 100% !important;
+}
+.rw-datetime-picker .rw-widget-input {
+  width: 166px !important;
+}
+.rw-datetime-picker .rw-widget-container .rw-i-calendar {
+  margin-top: -3px;
+  display: block;
+}
+.rw-datetime-picker .rw-widget-container {
+  border-radius: 0;
+}
+.dasboard-main > .row > .col-md-5 {
+  padding-right: 25px;
+}
+.dasboard-main .react-bs-table-container {
+  /*padding-left: 10px;*/
+}
+.dasboard-main .sub-stats-header .card .badge {
+  font-size: 22px;
+  padding: 10px;
+}
+.sub-stats-header .card-body {
+  padding: 1.2rem !important;
+}
+.table-heading-bt h4 {
+  padding-left: 15px;
+}
+.menu {
+  position: absolute;
+  right: 16px;
+  top: 5px;
+}
+.employee-form .nav-tabs a {
+  color: #fff;
+}
+.table th,
+.table td {
+  padding: 0.35rem !important;
+}
+.mt-30 {
+  margin-top: 300px;
+}
+.employee-form form {
+  width: 100%;
+  display: block;
+}
+.login-form {
+  border: 3px solid #09488c;
+  border-radius: 10px;
+  background: #fff;
+  padding: 20px;
+  margin-top: 20px !important;
+  color: #000;
+}
+.login-form .submit-field-style button {
+  width: 100%;
+}
+.accordion {
+  background: #09488c;
+  margin-top: 2px;
+}
+.accordion > .card {
+  background: transparent;
+  border: 0px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0;
+}
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1090;
+  /*border-bottom: solid;*/
+}
+.custom-sidebar-class {
+  z-index: 1100 !important;
+  top: 60px !important;
+  padding: 0 15px 0 0 !important;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.username-text {
+  display: block;
+  padding: 10px;
+  color: #fff;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.logo-center {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.accordion > .card > .card-header {
+  padding: 3px;
+}
+.accordion > .card > .card-header button {
+  color: #fff;
+}
+.accordion .card .card-body {
+  padding: 0 !important;
+}
+.accordion .card .card-body .nav-items {
+  list-style: none;
+  padding-left: 20px;
+}
+.accordion .card .card-body .nav-items .nav-item {
+  border-bottom: 1px solid #fff;
+}
+.accordion .card .card-body .nav-items .nav-item:last-child {
+  border-bottom: 0px solid #fff;
+}
+
+.dropdown-menu-vertical {
+  height: 35px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  text-align: center;
+  /*margin-left: 10px;
+  margin-top: 10px;*/
+}
+.dropdown-menu-vertical ul li {
+  border: 1px solid #fff !important;
+}
+.dropdown-menu-vertical ul {
+  left: 65%;
+  top: 0px;
+}
+.dropdown-menu-vertical ul,
+.dropdown-menu-vertical ul li,
+.dropdown-menu-vertical ul li ul {
+  /* z-index: 9999999; */
+}
+.menu-siderbar .sub-dash-header {
+  border-radius: 0 !important;
+}
+.chart-box-title h6 {
+  line-height: 5px;
+  padding-top: 6px;
+}
+.menu-siderbar .sub-dash-header .chart-box-title {
+  border-radius: 0 !important;
+}
+.chart-box-title {
+  width: 100%;
+  color: white;
+  /* border-radius: 10px 10px 0 0; */
+  background-color: #09488c;
+  text-align: center;
+  padding: 10px;
+}
+.react-bs-table-bordered{
+  border: 0px !important;
+  /* background:transparent !important; */
+}
+.chart-box {
+  background-color: #fff;
+  /*display: inline-block;*/
+  padding: 0px;
+  margin: 10px 0 0 0;
+  height: auto;
+  border-radius: 0.625rem;
+  box-shadow: 0 2px 0 rgba(90, 97, 105, 0.11), 0 4px 8px rgba(90, 97, 105, 0.12),
+    0 10px 10px rgba(90, 97, 105, 0.06), 0 7px 70px rgba(90, 97, 105, 0.1);
+    border: 2px solid #09488c;
+    border-bottom: 4px solid #09488c !important;
+}
+.menu-siderbar {
+  padding-right: 0px !important;
+  background-color: #fff;
+  z-index: 1070;
+  height: 100%;
+  position: fixed !important;
+  box-shadow: 0 0.125rem 9.375rem rgba(90, 97, 105, 0.1),
+    0 0.25rem 0.5rem rgba(90, 97, 105, 0.12),
+    0 0.9375rem 1.375rem rgba(90, 97, 105, 0.1),
+    0 0.4375rem 2.1875rem rgba(165, 182, 201, 0.1);
+}
+.dropdown-menu-vertical li {
+  display: inline-block;
+  position: relative;
+  /* float: left; */
+  width: 100%;
+  /* line-height: 35px; */
+  text-decoration: none;
+  background: #e1e5eb;
+  text-align: left;
+  margin-top: 3px;
+}
+.dropdown-menu-vertical li ul {
+  width: 250px;
+}
+
+.dropdown-menu-vertical li,
+.dropdown-menu-vertical li a {
+  color: #fff !important;
+  background-color: #09488c;
+  /*font-weight: bold;*/
+}
+
+.dropdown-menu-vertical li,
+.dropdown-menu-vertical li a:hover {
+  background-color: #0f52ba;
+}
+
+.dropdown-menu-vertical ul {
+  position: absolute;
+  display: none;
+}
+
+/*--- Hide Sub Sublists ---*/
+.dropdown-menu-vertical li:hover ul ul {
+  display: none;
+}
+
+/*--- Sublevel UL's display and position on hover ---*/
+.dropdown-menu-vertical li:hover ul {
+  display: block;
+}
+.dropdown-menu-vertical li li:hover ul {
+  margin-left: 33px; /*This must be width of menu box*/
+  margin-top: 0px;
+  display: block;
+}
+/* .dropdown-menu-vertical ul, .dropdown-menu-vertical ul li, .dropdown-menu-vertical ul li ul{
+  z-index: 9 !important;
+}
+.dropdown-menu-vertical li li:hover ul li{
+  z-index:99 !important;
+} */
+.dropdown-menu-vertical>li >ul >li {
+  z-index:99 !important;
+}
+.dropdown-menu-vertical>li >ul >li>ul>li {
+  z-index:999 !important;
+}
+.app-content-body {
+  margin-top: 10px !important;
+}
+/* .employee-form {
+  margin-top: 90px !important;
+} */
+
+.custom-sidebar-class div a {
+  padding: 10px !important;
+  box-shadow: none !important;
+  margin-top: 80px;
+  background: #09488c;
+  color: #fff !important;
+  margin-top: 2px;
+  display: block;
+}
+/* .bootstp-table {
+  margin-top: 90px;
+} */
+h4 {
+  padding-top: 10px;
+  color: #fff;
+}
+.menu-icon-left {
+  position: fixed;
+  top: 10px;
+  left: 11px;
+  z-index: 9999;
+}
+.menu-icon-left a {
+  color: #fff;
+  font-size: 25px;
+}
+
+.midColumn {
+  /* padding-right:0px !important; */
+}
+.sub-stats-header .col-lg-12 .col-md-6 {
+  margin-bottom: 10px;
+}
+/* Mobile Styles */
+@media only screen and (max-width: 474px) {
+  .form-group > div {
+    float: left;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .employee-form .col-sm-4 {
+    margin-bottom: 10px;
+  }
+}
+@media only screen and (max-width: 628px) {
+  .header-color {
+    width: 100%;
+    display: inline-block;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .dasboard-main .nav,
+  .dropdown-menu-vertical {
+    /* padding-right: 10px; */
+  }
+  .sub-dash-header {
+    margin-right: 10px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .form-group > div {
+    float: right;
+    width: 100%;
+  }
+  .nav-tabs {
+    width: 100%;
+  }
+  .menu {
+    position: relative;
+    right: 0px;
+  }
+}
+@media only screen and (max-width: 1328px) {
+  .form-group label {
+    width: 100%;
+  }
+}
+/* Tablet Styles */
+@media only screen and (min-width: 992px) and (max-width: 1327px) {
+  .form-group > div {
+    float: right;
+    width: 100%;
+  }
+}
+
+/* Desktop Styles */
+@media only screen and (max-width: 1200px) {
+  .dasboard-main .container {
+    margin-left: 32.3% !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .dasboard-main .menu-siderbar {
+    position: relative !important;
+  }
+  .dasboard-main .container {
+    margin-left: 0% !important;
+  }
+}

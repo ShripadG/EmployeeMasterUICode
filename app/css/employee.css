@@ -1,0 +1,60 @@
+.text-right-space{
+    width: 115px;
+    padding-right: 50px;
+    display: inline-block;
+}
+
+.text-right-space-name{
+    width: 220px;
+    padding-right: 50px;
+    display: inline-block;
+}
+
+.text-right-space-name-nationwide{
+    width: 300px;
+    padding-right: 50px;
+    display: inline-block;
+}
+
+.text-right-space-name-services{
+    width: 220px;
+    padding-right: 40px;
+    display: inline-block;
+}
+
+.search-header-field{
+    width: 320px;
+    float: right;
+    margin: 0px 0px 0px 15px;
+}
+
+.search-header{
+    clear: both;
+}
+
+.export-button{
+    float: right;
+    width: auto;
+    margin: 0px 0px 0px 15px;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+.react-bs-table{
+    background: #fff;
+  }
+  .react-bs-table-search-form input{
+    height: 37.5px !important;
+  }
+
+  .error{
+    color:red;
+  }
+
+  .nav-tabs .nav-link {
+    /* background-color: #007bff !important; */
+    border-color: transparent !important;
+    border-bottom: 1px solid #ccc !important;
+    /* color: white; */
+}
