@@ -88,7 +88,7 @@
     "json-to-csv-export": "^1.0.2",
     "jsonexport": "^2.4.1",
     "lodash": "4.17.15",
-    "minimist": "1.2.0",
+    "minimist": "1.2.2",
     "moment": "^2.24.0",
     "prop-types": "15.7.2",
     "react": "16.8.6",
