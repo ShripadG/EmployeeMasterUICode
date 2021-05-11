@@ -87,7 +87,7 @@
     "ip": "1.1.5",
     "json-to-csv-export": "^1.0.2",
     "jsonexport": "^2.4.1",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "minimist": "1.2.0",
     "moment": "^2.24.0",
     "prop-types": "15.7.2",
